@@ -1,0 +1,50 @@
+body {
+    background-image: url("assets/background.jpg");
+    background-color: #cccccc;
+}
+
+img {
+    width: 250px;
+    height: 300px;
+}
+
+h1 {
+    color: rgb(175, 19, 19);
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    color: rgb(12, 23, 100);
+    font-family: 'Pacifico', cursive;
+    font-size: 45px;
+
+}
+
+h3 {
+    color: green;
+    font-weight: bold;
+}
+
+h5 {
+    color: rgb(60, 80, 21);
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+a {
+    font-size: 25px;
+    color: rgb(171, 12, 68);
+    font-family: 'Pacifico', cursive;
+}
+
+ol {
+    list-style-position: inside;
+    font-family: 'Roboto Slab', serif;
+
+}
